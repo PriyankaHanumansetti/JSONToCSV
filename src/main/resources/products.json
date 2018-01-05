@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "name":"Laptop",
+    "costPrice":35000,
+    "vatApplicable": true
+  },
+  {
+    "id": 2,
+    "name": "Computer",
+    "costPrice": 15000,
+    "vatApplicable": true
+  },
+  {
+    "id": 3,
+    "name": "HD cable",
+    "costPrice": 1500,
+    "vatApplicable": false
+  },
+  {
+    "id": 4,
+    "name": "Charger",
+    "costPrice": 4500,
+    "vatApplicable": true
+  }
+]
